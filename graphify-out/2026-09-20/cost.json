@@ -1,0 +1,14 @@
+{
+  "runs": [
+    {
+      "date": "2026-09-20T05:54:14.135790+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 1,
+      "token_usage_available": false,
+      "note": "Host-agent token usage unavailable; zero values are placeholders."
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}

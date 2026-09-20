@@ -1,0 +1,19 @@
+{
+  "0": "Band2Midi (ongoing Python interoperability project)",
+  "1": "test_converter.py",
+  "2": "What You Must Do When Invoked",
+  "3": "parser.py",
+  "4": "cli.py",
+  "5": "graphify reference: extra exports and benchmark",
+  "6": "chunks",
+  "7": "graphify reference: query, path, explain",
+  "8": "Experimentally Decoded Format",
+  "9": "graphify reference: add a URL and watch a folder",
+  "10": "graphify reference: commit hook and native CLAUDE.md integration",
+  "11": "graphify reference: incremental update and cluster-only",
+  "12": "graphify reference: GitHub clone and cross-repo merge",
+  "13": "graphify reference: transcribe video and audio",
+  "14": "AGENTS.md",
+  "15": "extraction-spec.md",
+  "16": "band2midi"
+}
